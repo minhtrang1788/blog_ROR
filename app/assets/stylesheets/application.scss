@@ -1,0 +1,17 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+p,a,h1,h2,h3 {
+    font-family: "Arial, Helvetica, sans-serif" !important;
+}
+h3 a:hover , table a:hover {
+    text-decoration : none;
+    background-color: transpanrent !important;
+    color: #563d7c;
+}
+a.btn {
+    color: #fff !important;
+}
+.title {
+    text-align: center;
+    color: red;
+}
